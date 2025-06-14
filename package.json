@@ -1,0 +1,13 @@
+{
+  "name": "apple-k12-education-clone",
+  "version": "1.0.0",
+  "description": "Complete clone of Apple K-12 Education Deploy and Manage page with animations",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080",
+    "build": "echo 'No build required'"
+  },
+  "keywords": ["apple", "education", "k12", "mdm", "device-management"],
+  "author": "",
+  "license": "MIT"
+}
